@@ -1,0 +1,14 @@
+.category-container {
+  .directory {
+    cursor: pointer;
+  }
+
+  .file {
+    cursor: not-allowed;
+  }
+
+  ul {
+    margin-block-start: 0;
+    padding-inline-start: 30px;
+  }
+}
